@@ -30,10 +30,5 @@ Aquí hay algunos de mis proyectos destacados:
    - [Enlace al repositorio](URL del repositorio)
 -->
 
-## 📫 Conéctate Conmigo
-
-- [LinkedIn: ](https://www.linkedin.com/in/claudio-carrillo-478b75198/)
-- [Portafolio: ](URL)
-- Blog: [Tu blog](URL)
 
 ¡Gracias por visitar mi perfil de GitHub!
