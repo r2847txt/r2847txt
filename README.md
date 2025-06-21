@@ -1,5 +1,11 @@
-# ¡Hola! Soy r2847txt 👋
+# 👋 ¡Hola! Soy r2847txt
 
+
+Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta trabajar en proyectos que hagan una diferencia y aprender nuevas habilidades en el camino.
+
+<p align="center">¡Gracias por visitar mi perfil de GitHub!</p>
+
+<!--
 ## 🚀 Sobre Mí
 
 Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta trabajar en proyectos que hagan una diferencia y aprender nuevas habilidades en el camino.
@@ -14,7 +20,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta 
 - **Frameworks y Librerías**: u.u
 - **Herramientas de Desarrollo**: Git, vscode, dbeaver.
 
-<!--
+
 ## 🔧 Proyectos
 
 Aquí hay algunos de mis proyectos destacados:
@@ -29,6 +35,3 @@ Aquí hay algunos de mis proyectos destacados:
    - Tecnologías: [Tecnologías utilizadas]
    - [Enlace al repositorio](URL del repositorio)
 -->
-
-
-¡Gracias por visitar mi perfil de GitHub!
