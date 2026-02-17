@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy r2847txt 
+<p align="center"># 👋 ¡Hola! Soy r2847txt.</p>
 
-<p align="center">¡¿Que sucede?!</p>
+<p align="center">## ¡¿Que sucede?!</p>
 
 <!--
 ## 🚀 Sobre Mí
