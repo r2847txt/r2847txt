@@ -1,9 +1,6 @@
-# 👋 ¡Hola! Soy r2847txt
+# 👋 ¡Hola! Soy r2847txt 
 
-
-Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta trabajar en proyectos que hagan una diferencia y aprender nuevas habilidades en el camino.
-
-<p align="center">¡Gracias por visitar mi perfil de GitHub!</p>
+<p align="center">¡¿Que sucede?!</p>
 
 <!--
 ## 🚀 Sobre Mí
